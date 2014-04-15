@@ -1,14 +1,15 @@
 @font-face {
-	font-family: Gputeks;
-	font-style:  normal;
-	font-weight: 700;
-	src: url(fonts/GPUTEKS0.eot);
-}
+    font-family: 'Gputeks';
+    src: url('fonts/gputeks-bold.eot');
+    font-weight: bold;
+    font-style: normal;
+    }
+
 @font-face {
-	font-family: Gputeks;
-	font-style:  normal;
-	font-weight: normal;
-	src: url(fonts/GPUTEKS0.eot);
-}
+	    font-family: 'Gputeks';
+	    src: url('fonts/gputeks-regular.eot');
+	    font-weight: normal;
+	    font-style: normal;
+	    }
 
 
